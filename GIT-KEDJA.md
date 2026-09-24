@@ -23,12 +23,12 @@ git remote add origin https://github.com/SarahNaevdal4160/Git-och-Github---uppgi
 
 git push -u origin main
 
+<br>
+<br>
+<br>
+<br>
 
-
-
-
-
-Steg 4 — Reflektion (4 meningar)
+Steg 4 — Reflektion 
 
 #1 Vad var fel eller farligt i AI-förslaget (eller snutten)?
 
@@ -40,8 +40,8 @@ Jag lade endast till specifika filer, kopplade till mitt eget GitHub-repo, ändr
 
 #3 Varför är publikt repo + begripliga commits viktigt inför Exam 1?
 
-Dessa är viktiga för att läraren ska kunna se mitt repo och snabbt förstå vilka ändringar jag gjort när. 
+Dessa är viktiga för att läraren ska kunna se mitt repo och snabbt förstå vilka ändringar jag gjort och när jag gjort dem. 
 
 #4 Varför är force push och commitade hemligheter dåliga idéer även “bara för övning”?
 
-Det är dåliga idéer för att man kan skapa däliga vanor som kan orsaka stora problem i framtiden. 
+Det är dåliga idéer för att man kan skapa dåliga vanor som kan orsaka stora problem i framtiden. 
