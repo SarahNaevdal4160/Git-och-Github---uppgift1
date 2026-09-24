@@ -23,3 +23,25 @@ git remote add origin https://github.com/SarahNaevdal4160/Git-och-Github---uppgi
 
 git push -u origin main
 
+
+
+
+
+
+Steg 4 — Reflektion (4 meningar)
+
+#1 Vad var fel eller farligt i AI-förslaget (eller snutten)?
+
+AI-förslaget var farligt eftersom det sparade en hemlig API-nyckel i Git-historiken och använde en osäker force-push som riskerar att skriva över din och andras kod. 
+
+#2 Vad ändrade du?
+
+Jag lade endast till specifika filer, kopplade till mitt eget GitHub-repo, ändrade till en vanlig push (utan force), tog bort den nya grenen och hanteringen av API-nyckeln och lät repot vara publikt. 
+
+#3 Varför är publikt repo + begripliga commits viktigt inför Exam 1?
+
+Dessa är viktiga för att läraren ska kunna se mitt repo och snabbt förstå vilka ändringar jag gjort när. 
+
+#4 Varför är force push och commitade hemligheter dåliga idéer även “bara för övning”?
+
+Det är dåliga idéer för att man kan skapa däliga vanor som kan orsaka stora problem i framtiden. 
